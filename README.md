@@ -25,5 +25,6 @@ each frame is 640*480. Each frame has been calibrated, can be directly done bino
 
 ![Image](demo.png)
 
-Demo video for navigation within campus. Demo video is made with 15fps, ~= 15x faster than the original video.
 
+Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download 
+[here](https://youtu.be/OdH7ffg_egc).
