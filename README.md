@@ -14,12 +14,16 @@ comparison resultsunderline the superiority of the proposed algorithm over the t
 
 ### Data
 
+![Image](dataset.png)
+
 Dataset can be downloaded [here](http://www.baidu.com),Total in size = 2.14G. Data was caputred 29frames/s, and the resolution of 
 each frame is 640*480. Each frame has been calibrated, can be directly done binocular stereo matching.
 
 
 
 ### Performance
+
+![Image](demo.png)
 
 Demo video for navigation within campus. Demo video is made with 15fps, ~= 15x faster than the original video.
 
