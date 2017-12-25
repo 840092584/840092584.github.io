@@ -26,5 +26,4 @@ resolution of each frame is 1011*512. Each frame has been calibrated, can be dir
 ![Image](demo.png)
 
 
-Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download 
-[here](https://youtu.be/OdH7ffg_egc).
+Demo video can be download [here](https://youtu.be/OdH7ffg_egc).
