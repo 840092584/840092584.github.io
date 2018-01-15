@@ -2,15 +2,14 @@
 
 Tracking multiple people in crowds is a fundamental and essential task in the field of intelligent video surveillance, and it is often
 hindered by difficulties such as dynamic occlusion between objects, cluttered background and abrupt illumination changes. In this 
-paper, we propose a novel robust stereo vision tracking method based on two-tier data association to improve the effect of 
-multi-object tracking in a crowded environment. More specifically, first we present a novel multi-level object segmentation method 
-based on the object visualization, which combines the results of deep learning detection method with the 3-dimensional information
-obtained by stereo vision algorithm to get precise segmentation results in the image. Thereafter, we propose a novel two-tier data
-association method based on the precise segmentation results, which aiming at producing complete tracks of multiple objects in the 
-case of severe occlusion. Finally, we construct a real-time stereo vision tracking system for multi-object tracking and build a 
-diverse stereo dataset, including a variety of real challenging indoor and outdoor scenes. The comprehensive experiments verify the
-effective and robust tracking performance of our approach in various crowded scenes. In addition, the qualitative and quantitative
-comparison resultsunderline the superiority of the proposed algorithm over the tested state-of-the-art tracking approaches.
+paper, we propose a novel joint visibility segmentation strategy and a two-tier data association method for stereo tracking in crowds. 
+More specifically, first we present a novel visibility segmentation method, which combines the results of deep learning detection method
+with the 3-dimensional information obtained by stereo vision algorithm to get precise segmentation results in the image. Thereafter, 
+we propose a novel two-tier data association method based on the precise segmentation results, which aiming at improving the performance
+of multiple object tracking in severe occlusion. Finally, we construct a real-time stereo tracking system and build a diverse stereo
+dataset, including a variety of real challenging indoor and outdoor scenes. The comprehensive experiments verify the effective and 
+robust tracking performance of our approach in various crowded scenes. In addition, the qualitative and quantitative comparison results
+underline the superiority of the proposed algorithm over the tested state-of-the-art tracking approaches
 
 ### Data
 
