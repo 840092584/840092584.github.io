@@ -21,6 +21,6 @@ and the resolution of each frame is 1011*512. Each frame has been calibrated, ca
 
 ### Performance
 
-![Image](demo.png)
+![Image](Demo.png)
 
 Demo video for Joint Visibility Segmentation and Two-tier Data Association for Stereo Tracking in Crowds can be download [here](https://pan.baidu.com/s/1htOFKig).
