@@ -15,7 +15,7 @@ underline the superiority of the proposed algorithm over the tested state-of-the
 
 ![Image](dataset.png)
 
-Dataset and demo video can be downloaded [here](https://pan.baidu.com/s/1qXJcy76),Total in size = 2.37G. Data was caputred 30frames/s, 
+Dataset and demo video can be downloaded [here](https://pan.baidu.com/s/1kWqemhx),Total in size = 2.37G. Data was caputred 30frames/s, 
 and the resolution of each frame is 1011*512. Each frame has been calibrated, can be directly done binocular stereo matching.
 
 
@@ -23,4 +23,4 @@ and the resolution of each frame is 1011*512. Each frame has been calibrated, ca
 
 ![Image](Demo.png)
 
-Demo video for Joint Visibility Segmentation and Two-tier Data Association for Stereo Tracking in Crowds can be download [here](https://pan.baidu.com/s/1htOFKig).
+Demo video for Joint Visibility Segmentation and Two-tier Data Association for Stereo Tracking in Crowds can be download [here](https://pan.baidu.com/s/1kWqemhx).
